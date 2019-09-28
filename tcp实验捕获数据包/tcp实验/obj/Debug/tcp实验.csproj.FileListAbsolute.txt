@@ -1,0 +1,13 @@
+F:\c#\tcp实验\tcp实验\bin\Debug\tcp实验.exe.config
+F:\c#\tcp实验\tcp实验\obj\Debug\tcp实验.csprojResolveAssemblyReference.cache
+F:\c#\tcp实验\tcp实验\obj\Debug\tcp实验.Properties.Resources.resources
+F:\c#\tcp实验\tcp实验\obj\Debug\tcp实验.csproj.GenerateResource.Cache
+F:\c#\tcp实验\tcp实验\bin\Debug\tcp实验.exe
+F:\c#\tcp实验\tcp实验\bin\Debug\tcp实验.pdb
+F:\c#\tcp实验\tcp实验\bin\Debug\PacketDotNet.dll
+F:\c#\tcp实验\tcp实验\bin\Debug\SharpPcap.dll
+F:\c#\tcp实验\tcp实验\bin\Debug\PacketDotNet.xml
+F:\c#\tcp实验\tcp实验\bin\Debug\SharpPcap.xml
+F:\c#\tcp实验\tcp实验\obj\Debug\tcp实验.Form1.resources
+F:\c#\tcp实验\tcp实验\obj\Debug\tcp实验.exe
+F:\c#\tcp实验\tcp实验\obj\Debug\tcp实验.pdb
